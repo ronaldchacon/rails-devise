@@ -1,7 +1,7 @@
 Rails Devise
 ================
 
-A sample application using Devise
+A sample application using Devise and setting Roles for users.
 
 Ruby on Rails
 -------------
